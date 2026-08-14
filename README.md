@@ -12,6 +12,8 @@
 
 ## News
 
+[2026.08.12] 🔥🔥 The detailed paper on Claim-Level Reliability Assessment (CLR), introduced in the VibeThinker-3B report, is now released! [[Paper]](https://arxiv.org/abs/2608.11994) [[Code]](https://github.com/WeiboAI/CLR)
+
 [2026.06.16] 🎉🎉🎉 VibeThinker-3B is now released! The model weights and technical report are available from the links above.
 
 [2025.11.19] 🔥🔥VibeThinker-1.5B hit #1 on huggingface’s trending models today!
